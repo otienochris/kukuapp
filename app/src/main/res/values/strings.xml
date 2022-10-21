@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KukuApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_transact">Trade</string>
+    <string name="btn_learn">Learn</string>
+    <string name="btn_buy">Buy</string>
+    <string name="btn_sell">Sell</string>
+    <string name="buy_or_sell">Choose below to buy or sell</string>
+    <string name="choose_topic">Choose topic:</string>
+    <string-array name="topics">
+        <item>Breeds of Chicken</item>
+        <item>Health</item>
+        <item>Feeding Chicken</item>
+        <item>Housing for Chicken</item>
+    </string-array>
+</resources>
